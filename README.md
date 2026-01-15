@@ -1,4 +1,4 @@
-# 💫 About Me:
+## 💫 About Me:
 Hi, I’m **Sky Angeles** — a software engineer, Wells Scholar, and high-performance computing enthusiast passionate about building scalable, AI-driven solutions for humanitarian and environmental resilience. I thrive at **machine learning**, **systems programming**, and **performance optimization**, merging academic rigor with hands-on project delivery.  
 
 💡 **Wells Scholar** – sole fully-funded international scholar out of a 9,600+ student cohort  
